@@ -9,3 +9,5 @@ Collection of certificates required for CHEM 3PA3. List of completed LinkedIn Le
 
 #### 3. Python Quickstart
 > [CertificateOfCompletion_Python Quick Start.pdf](https://github.com/user-attachments/files/18582090/CertificateOfCompletion_Python.Quick.Start.pdf)
+
+Please confirm receipt of S+ point for completion of these three training modules!
